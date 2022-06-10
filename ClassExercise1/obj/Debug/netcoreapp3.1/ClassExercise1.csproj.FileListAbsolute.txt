@@ -1,0 +1,14 @@
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\bin\Debug\netcoreapp3.1\ClassExercise1.exe
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\bin\Debug\netcoreapp3.1\ClassExercise1.deps.json
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\bin\Debug\netcoreapp3.1\ClassExercise1.runtimeconfig.json
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\bin\Debug\netcoreapp3.1\ClassExercise1.runtimeconfig.dev.json
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\bin\Debug\netcoreapp3.1\ClassExercise1.dll
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\bin\Debug\netcoreapp3.1\ClassExercise1.pdb
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\obj\Debug\netcoreapp3.1\ClassExercise1.csproj.AssemblyReference.cache
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\obj\Debug\netcoreapp3.1\ClassExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\obj\Debug\netcoreapp3.1\ClassExercise1.AssemblyInfoInputs.cache
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\obj\Debug\netcoreapp3.1\ClassExercise1.AssemblyInfo.cs
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\obj\Debug\netcoreapp3.1\ClassExercise1.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\obj\Debug\netcoreapp3.1\ClassExercise1.dll
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\obj\Debug\netcoreapp3.1\ClassExercise1.pdb
+C:\Users\ernes\Desktop\Repos\csharp27\ClassExercise1\ClassExercise1\obj\Debug\netcoreapp3.1\ClassExercise1.genruntimeconfig.cache
